@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shurjer-pakhir-moto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Shurjer Pakhir Moto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shurjer-pakhir-moto/) |
+| **Get License** | [Secure Licensing Rights for Shurjer Pakhir Moto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shurjer-pakhir-moto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1f692249de09b583363335939c6b86796199c444652df88d2aad7a553438086b` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

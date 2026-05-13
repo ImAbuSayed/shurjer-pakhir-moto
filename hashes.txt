@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shurjer Pakhir Moto
+
+This log tracks the cryptographic history and versioning for the song **Shurjer Pakhir Moto** (shurjer-pakhir-moto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T09:03:27.540616 | `v1` | `1f692249de09b583363335939c6b86796199c444652df88d2aad7a553438086b` | `cf6719094099d52993fe2a18fdef194b30497215ca7bc253f1062e36e8d1c735` | `2026-05-13_shurjer-pakhir-moto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
